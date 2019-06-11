@@ -138,12 +138,12 @@ public class Main {
             String w=(String) y.get(4);
             double a = Math.round(Double.parseDouble(v) * 100d) / 100d; //current
             double b = Math.round(Double.parseDouble(w) * 100d) / 100d; //previous
-            if(a>b==true){
+            if(a > b){
                 c.add(a-b);
             }else{
                 c.add(0);
             }
-            if(a<b==true){
+            if(a < b){
                 d.add(b-a);
             }else{
                 d.add(0);
