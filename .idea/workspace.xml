@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d997f6a5-c1d7-4653-9595-884b23d6b1d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_47_bin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try2/src/com/jonas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/try2/src/com/jonas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try2/try2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/try2/try2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d997f6a5-c1d7-4653-9595-884b23d6b1d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/try2/src/com/jonas/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <state relative-caret-position="374">
+              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -160,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560257109587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.1.0">
+      <created>1560280900067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560280900067</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -252,14 +253,15 @@
     <MESSAGE value="1.0.3" />
     <MESSAGE value="1.0.4" />
     <MESSAGE value="1.0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.5" />
+    <MESSAGE value="1.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/c_RSI.png" />
     <entry file="file://$PROJECT_DIR$/try2/src/com/jonas/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        <state relative-caret-position="374">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
         </state>
       </provider>
     </entry>
