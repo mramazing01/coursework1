@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpclient-cache-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/jna-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpclient-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpclient-osgi-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpcore-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/jna-platform-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/fluent-hc-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/bfograph.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpmime-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/try2/src/com/jonas/Lib/httpclient-win-4.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
