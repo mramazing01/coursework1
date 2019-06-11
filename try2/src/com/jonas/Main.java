@@ -1,7 +1,6 @@
 package com.jonas;
 //plz work
-//it works
-//update
+//i changed a bit
 import java.io.IOException;
 import java.util.*;
 
