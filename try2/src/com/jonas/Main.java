@@ -10,13 +10,13 @@ public class Main {
             // db parameters
             String url       = "jdbc:mysql://localhost:3306/mysqljdbc";
             String user      = "root";
-            String password  = "legoland01";
+            String password  = "potato";
 
             // create a connection to the database
             conn = DriverManager.getConnection(url, user, password);
             Statement stmt = conn.createStatement();
             //here is the query you will execute
-            ResultSet rs = stmt.executeQuery("SELECT * FROM candidates");
+            ResultSet rs = stmt.executeQuery("SELECT * FROM candidates, skills");
             System.out.println(rs);
             while (rs.next()) {
                 //rs contains the result of the query
@@ -25,10 +25,11 @@ public class Main {
                 String fna = rs.getString("first_name");
                 String lna = rs.getString("last_name");
                 String phone=rs.getString("email");
+                String skill=rs.getString("name");
                 if(fna.charAt(fna.length()-1)==' '){
                     fna=fna.substring(0,fna.length()-1);
                 }
-                System.out.println(x+" "+fna+" "+lna+" "+phone);
+                System.out.println(x+" "+fna+" "+lna+" "+skill);
             }
             // more processing here
             // ...
